@@ -1,0 +1,7 @@
+# ArtCoder 
+torch
+torchvision
+pillow
+numpy
+pandas
+matplotlib
